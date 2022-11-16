@@ -10,7 +10,7 @@
 
 This is a car Racing simulator built using javascript Objects and classes.
 
-Sorry for the aesthetics, this was a quick project, I think of coming back to it and upgrading it.
+Sorry for the aesthetics, this was a quick project, It's on my mind to come back to it and upgrade it.
 
 ## Getting Started <a name = "getting_started"></a>
 
