@@ -15,7 +15,7 @@ class Coche {
     createCar.className = "coche";
     createCar.id = this.id;
     createCar.style.top = Number(this.posicion) * 50 + "px";
-    createCar.innerHTML = `<img src="img/${this.name}.png" alt='${this.name}'/>`;
+    createCar.innerHTML = `<img src="https://github.com/PauLlibre/carRacingSimulator/blob/main/img/${this.name}.png" alt='${this.name}'/>`;
   }
 
   nuevaVelocidad() {
