@@ -14,7 +14,7 @@ Sorry for the aesthetics, this was a quick project, It's on my mind to come back
 
 ## Getting Started <a name = "getting_started"></a>
 
-You can even download the project or visit: https://shuii18.github.io/carRacingSimulator/ to see the final result
+You can even download the project or visit: https://PauLlibre.github.io/carRacingSimulator/ to see the final result
 
 ## Usage <a name = "usage"></a>
 
